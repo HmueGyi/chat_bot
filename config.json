@@ -1,0 +1,7 @@
+{
+  "train_interval": 20,
+  "max_train_steps": 500,
+  "speech_rate": 170,
+  "model_dir": "fine-tuned",
+  "base_model": "gpt2-medium"
+}

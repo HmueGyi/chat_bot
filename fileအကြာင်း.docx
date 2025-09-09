@@ -1,0 +1,49 @@
+ဖိုင်တစ်ခုချင်းစီ၏ လုပ်ဆောင်ချက်များ
+patterns.py
+လုပ်ဆောင်ချက်:
+အသုံးပြုသူ၏ input မှ အချက်အလက်များ (facts) ကို ရှာဖွေပြီး key-value အနေဖြင့် ထုတ်ယူရန် regex pattern များကို သတ်မှတ်ထားသည်။
+Fact detection အတွက် detect_fact() function ကို ဖော်ပြထားသည်။
+Function များ:
+
+detect_fact(text):
+လုပ်ဆောင်ချက်:
+အသုံးပြုသူ၏ စကားများကို FACT_PATTERNS regex များဖြင့် စစ်ဆေးပြီး အချက်အလက်များကို ရှာဖွေသည်။
+Key-value အနေဖြင့် အချက်အလက်ကို ပြန်ပေးသည် (ဥပမာ - "My name is John" → {"name": "John"})။
+Output: (key, value) tuple သို့မဟုတ် None (မတွေ့ပါက)။
+
+requirement.txt
+လုပ်ဆောင်ချက်:
+Chatbot ကို အလုပ်လုပ်စေရန် လိုအပ်သော Python library များကို ဖော်ပြထားသည်။
+Libraries:
+transformers: GPT-2 model ကို အသုံးပြုရန်။
+torch: PyTorch backend library။
+datasets: Dataset များကို ပြင်ဆင်ရန်။
+pyttsx3: Text-to-Speech (TTS) အတွက် အသုံးပြုရန်။
+
+README.md
+လုပ်ဆောင်ချက်:
+Chatbot ကို အသုံးပြုရန် လိုအပ်သော လမ်းညွှန်ချက်များကို ဖော်ပြထားသည်။
+Installation, Configuration, Run Commands, Features, Example Usage စသည်တို့ကို ဖော်ပြထားသည်။
+
+chatbot.py (README မှာ ဖော်ပြထားသည့်အတိုင်း)
+လုပ်ဆောင်ချက်:
+Chatbot ၏ Main Script ဖြစ်ပြီး အသုံးပြုသူနှင့် အပြန်အလှန် ဆက်သွယ်မှုကို စီမံဆောင်ရွက်သည်။
+patterns.py မှ Fact Detection ကို အသုံးပြုပြီး, GPT-2 ကို အသုံးပြု၍ တုံ့ပြန်မှုများကို ထုတ်ပေးသည်။
+
+config.json (README မှာ ဖော်ပြထားသည့်အတိုင်း)
+လုပ်ဆောင်ချက်:
+Chatbot ၏ behavior (ဥပမာ - Fine-Tuning interval, Speech Rate, Model Directory) ကို ပြင်ဆင်ရန် Configuration File ဖြစ်သည်။
+
+memory.txt (README မှာ ဖော်ပြထားသည့်အတိုင်း)
+လုပ်ဆောင်ချက်:
+Chatbot ၏ စကားဝိုင်းမှတ်တမ်းများကို သိမ်းဆည်းထားသည်။
+
+knowledge.json (README မှာ ဖော်ပြထားသည့်အတိုင်း)
+လုပ်ဆောင်ချက်:
+Chatbot မှ အသုံးပြုသူ၏ မှတ်မိထားသော အချက်အလက်များ (ဥပမာ - Name, Location) ကို သိမ်းဆည်းထားသည်။
+
+trainer_utils.py (README မှာ ဖော်ပြထားသည့်အတိုင်း)
+လုပ်ဆောင်ချက်:
+GPT-2 Model ကို Fine-Tune ပြုလုပ်ရန် Dataset ပြင်ဆင်မှု, Training Process, Model Save/Load စသည်တို့ကို စီမံဆောင်ရွက်သည်။
+
+sspeech_to_text.py တော့စမ်းသပ်ဆဲ
