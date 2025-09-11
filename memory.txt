@@ -1,84 +1,31 @@
-You: Hi, how are you?
-Learny: I’m good! How about you?
-You: I am feeling happy today.
-Learny: That’s great! What made you happy?
-You: I went for a morning walk.
-Learny: Nice! Morning walks are refreshing.
-You: I am drinking coffee.
-Learny: Yum! Coffee makes the day better.
-You: Hi, how are you?
-Learny: I’m good! How about you?
-You: I am feeling happy today.
-Learny: That’s great! What made you happy?
-You: I went for a morning walk.
-Learny: Nice! Morning walks are refreshing.
-You: I am drinking coffee.
-Learny: Yum! Coffee makes the day better.
-You: Hi, how are you?
-Learny: I’m good! How about you?
-You: I am feeling happy today.
-Learny: That’s great! What made you happy?
-You: I went for a morning walk.
-Learny: Nice! Morning walks are refreshing.
-You: I am drinking coffee.
-Learny: Yum! Coffee makes the day better.
-You: Hi, how are you?
-Learny: I’m good! How about you?
-You: I am feeling happy today.
-Learny: That’s great! What made you happy?
-You: I went for a morning walk.
-Learny: Nice! Morning walks are refreshing.
-You: I am drinking coffee.
-Learny: Yum! Coffee makes the day better.
-You: Hi, how are you?
-Learny: I’m good! How about you?
-You: I am feeling happy today.
-Learny: That’s great! What made you happy?
-You: I went for a morning walk.
-Learny: Nice! Morning walks are refreshing.
-You: I am drinking coffee.
-Learny: Yum! Coffee makes the day better.
-You: Hi, how are you?
-Learny: I’m good! How about you?
-You: I am feeling happy today.
-Learny: That’s great! What made you happy?
-You: I went for a morning walk.
-Learny: Nice! Morning walks are refreshing.
-You: I am drinking coffee.
-Learny: Yum! Coffee makes the day better.
-You: Hi, how are you?
-Learny: I’m good! How about you?
-You: I am feeling happy today.
-Learny: That’s great! What made you happy?
-You: I went for a morning walk.
-Learny: Nice! Morning walks are refreshing.
-You: I am drinking coffee.
-Learny: Yum! Coffee makes the day better.
-You: Hi, how are you?
-Learny: I’m good! How about you?
-You: I am feeling happy today.
-Learny: That’s great! What made you happy?
-You: I went for a morning walk.
-Learny: Nice! Morning walks are refreshing.
-You: I am drinking coffee.
-Learny: Yum! Coffee makes the day better.
-You: Hi, how are you?
-Learny: I’m good! How about you?
-You: I am feeling happy today.
-Learny: That’s great! What made you happy?
-You: I went for a morning walk.
-Learny: Nice! Morning walks are refreshing.
-You: I am drinking coffee.
-Learny: Yum! Coffee makes the day better.
-You: Hi, how are you?
-Learny: I’m good! How about you?
-You: I am feeling happy today.
-Learny: That’s great! What made you happy?
-You: I went for a morning walk.
-Learny: Nice! Morning walks are refreshing.
-You: I am drinking coffee.
-Learny: Yum! Coffee makes the day better.
-You: Hi, how are you?
-Learny: Well, I'm a bit disconcerted. You're a bit surprised that I'm called a'socialist' on Twitter.
-You: I am feeling happy today.
-Learny: I am.
+You: hello
+Learny: Hi there! How can I help you today?
+You: good morning
+Learny: Good morning! How are you feeling today?
+You: I am fine, thank you.
+Learny: That’s great to hear! What’s on your mind?
+You: What is your name?
+Learny: My name is Learny. I’m here to assist you!
+You: What can you do?
+Learny: I can chat with you, learn about you, and help with your questions.
+You: Thank you.
+Learny: You’re welcome! Let me know if you need anything else.You: hmue gyi
+Learny: Hmm, can you say that differently?
+
+You: hi
+Learny: Hi. I'm really sorry, but I thought you said that, but I can't believe I actually said that anyway.
+You: hi
+Learny: Okay, good.
+Learny: you heard that
+You: yes
+Learny: I have a bunch of hobbies though
+You: yes
+Learny: I am a musician
+You: hi
+Learny: I'd like to add a few things to the video.
+You: hello
+Learny: What's your name?
+You: hmue gyi
+Learny: How are you?
+You: good
+Learny: Good.
